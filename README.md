@@ -1,15 +1,10 @@
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/golang/go/master/doc/gopher/fiveyears.jpg" alt="Go Lang Logo" width="120">
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://i.imgur.com/YI5t0Lj.png" alt="Yahoo Finance Logo" width="150">
-    <br>
     Company-wise Stock Analysis using Go
 </h1>
 
 <p align="center">
-    <!-- Shields.io badges -->
     <img src="https://img.shields.io/badge/Go-1.21.0-blue.svg" alt="Go 1.21.0">
-    <img src="https://img.shields.io/badge/yahoo!-8A2BE2" alt="yahoo!">
+    <img src="https://img.shields.io/badge/yahoo! finance -8A2BE2" alt="yahoo!">
 </p>
 
 ---
